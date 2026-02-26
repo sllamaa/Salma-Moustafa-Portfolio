@@ -12,3 +12,11 @@ This project aims to predict customer churn using machine learning techniques. C
 ## Spotify Charts
 ###### https://github.com/sllamaa/spotify-charts
 This project explores and analyzes global and regional Spotify Top 200 chart data to uncover trends in popular music. It involves examining song attributes such as genre, artist popularity, track duration, and chart performance over time. Through data cleaning, visualization, and trend analysis, we identify patterns in hit songs, recurring artists, and country-specific preferences. The goal is to gain insights into what makes a song successful on streaming platforms.
+
+## Elevator Action Optimization using Q-Learning Agents
+###### https://github.com/sllamaa/Elevator-Action-Optimization-using-Qlearning-Agents
+This project applies Reinforcement Learning (RL) techniques to optimize elevator dispatching and scheduling decisions. Using Q-learning agents, the system learns to minimize passenger waiting time, travel time, and overall system inefficiencies through interaction with a simulated environment. The model evaluates different states such as elevator position, passenger requests, and load capacity to determine optimal actions. Through reward design and iterative training, the agent improves performance over time. The goal is to demonstrate how intelligent decision-making systems can optimize real-world control problems using machine learning.
+
+## Object Tracking Using Classical Image Processing Techniques
+###### https://github.com/sllamaa/Object-Tracking-Using-Classical-Image-Processing-Techniques-
+This project focuses on object tracking using traditional computer vision and image processing methods without relying on deep learning models. It implements techniques such as background subtraction, frame differencing, contour detection, and feature extraction to detect and track moving objects across video frames. The system evaluates tracking accuracy and robustness under varying lighting and motion conditions. The objective is to demonstrate how classical algorithms can effectively solve tracking problems while maintaining computational efficiency and interpretability.
